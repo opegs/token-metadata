@@ -1,7 +1,7 @@
 {
-    "name": "oPEG",
-    "image": "https://raw.githubusercontent.com/opegs/token-metadata/main/opegs_icon.png",
-    "symbol": "OPEG",
+    "name": "OctoPeg",
+    "image": "https://raw.githubusercontent.com/opegs/token-metadata/main/opeg_icon.jpg",
+    "symbol": "oPEG",
     "description": "A new kind of on-chain object.",
     "twitter": "https://www.opeg.us",
     "website": "https://www.opeg.us"
